@@ -9,10 +9,10 @@
 
         switch (command)
         {
-            case "task 41":
+            case "41":
                 Task41();
                 break;
-            case "task 43":
+            case "43":
                 Task43();
                 break;
             case "exit":
